@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+# Build output
+build/
+.build/
+dist/
+*.xcuserstate
+# Never commit app bundles, binaries, or anything from a ChatGPT install or data folder
+*.app/
+*.exe
+*.icns
+*.asar
+auth.json
+*.sqlite*
+.env
