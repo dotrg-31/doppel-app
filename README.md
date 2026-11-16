@@ -69,3 +69,7 @@ and run `defaults delete com.rgdevelopment.doppel`.
 - `macos/make-logo.swift`: draws the Doppel icon (original artwork).
 - `assets/doppel-icon-1024.png`: the rendered icon.
 - `windows/`: the Windows build (not yet published here).
+
+## License
+
+MIT. See [LICENSE](LICENSE).
